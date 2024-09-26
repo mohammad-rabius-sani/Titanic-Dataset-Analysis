@@ -20,7 +20,7 @@ This repository contains an analysis of the Titanic dataset using SQL and Power 
 - `images/` contains a screenshot of the Power BI dashboard.
 
 ## Dashboard
-![Titanic Dashboard](./images/titanic_dashboard.jpg)
+![Titanic Dashboard](./images/Titanic Dataset Analysis-1.jpg)
 
 This dashboard visualizes the key findings from the dataset, including survival rates by class, gender, and age, as well as the top survivors by fare paid.
 
